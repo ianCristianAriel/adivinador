@@ -1,4 +1,4 @@
-## Adivinador: 
+## 🔮 Adivinador: 
 Se desea tener un programa que calcule el saldo de una cuenta. Supón que los datos son leídos de la entrada estándar y que constan de renglones, cada uno de los cuales contiene una letra seguida de un valor real separado por un espacio. El último renglón contiene únicamente la letra X en la columna uno.
 El primer renglón contiene la letra A y el saldo inicial de una cuenta de cheques. Los demás renglones contienen la letra D y el importe de un depósito o la letra R y el importe de un retiro. Escribe un programa en Pascal que determine el saldo exacto de la cuenta después de procesar las transacciones.
 
@@ -11,7 +11,7 @@ El primer renglón contiene la letra A y el saldo inicial de una cuenta de chequ
     X
     El saldo final es 546.75
 
-### El programa:
+### 📝 El programa:
 Escribe un programa en Pascal que dado un fragmento de texto que debe ser leído de la entrada estándar, todo en una línea, y terminado por el caracter $, determine y exhiba las letras que aparecen duplicadas en forma contigua.
 Por ejemplo, en el texto `llama al chico que lee$` aparece repetida de forma contigua la l (ll) y la e (ee). La salida debe ser ll ee.
 Otro ejemplo: l`lueve todos los ddias y aaron tiene mal humor$` 
@@ -27,5 +27,5 @@ El usuario ingresará solo números enteros y se producirán resultados enteros,
 Ej. de entrada: `4 + 3 / 2 * 8 - 4 =`
 Ej. de salida: `20`
 
-### Bibliografia:
+### 📚 Bibliografia:
 - https://www.udemy.com/course/programacion-profesional-desde-cero
